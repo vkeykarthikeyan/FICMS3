@@ -1,0 +1,1 @@
+created new repositry FICMS3 in Local Git repositry
